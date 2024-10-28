@@ -1,4 +1,3 @@
-Planet,Distance from Sun (AU),Planetary Mass (Earth Mass),Planetary Radius (Earth Radius),Planetary Orbital Period (Days),Stellar Mass (Solar Mass),Stellar Radius (Solar Radius),Stellar Effective Temp (K),Planetary System Age (Billion Years),Habitability Score
 Mercury,0.39,0.055,0.38,88.0,0.6,0.4,5800,4.5,0.064
 Venus,0.72,0.815,0.95,225.0,0.9,0.95,735,4.5,0.249
 Earth,1.0,1.0,1.0,365.0,1.0,1.0,5778,4.5,1.0
